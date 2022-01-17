@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5141],{7722:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/leetcode","name":"leetcode","count":2,"permalink":"/blog/tags/leetcode"}')}}]);
